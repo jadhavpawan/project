@@ -1,0 +1,27 @@
+h1{
+color: orange;
+text-align: center;
+  font-size: 28px;
+}
+section{
+background-color: gray;
+height: auto;
+width: 900px;
+}
+p{
+
+  font-size: 20px;
+}
+span{
+color: red;
+
+}
+.right{
+
+  background-color: red;
+  color: white;
+  width: 300px;
+  height: 308px;
+  margin-left: 900px;
+  margin-top: -336px;
+}
